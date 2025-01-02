@@ -1,7 +1,9 @@
-Elegi alguna de estas opciones:
+💡 ¡Elige una opción para comenzar!
 
-Opcion 1 - Menu
-Opcion 2 - Reservar mesa
-Opcion 3 - Hacer consultas
+1️⃣ Opción 1 - Cursos: 📚 Aprende nuevas habilidades y potencia tu futuro.
+2️⃣ Opción 2 - Salir de VERAZ: 💳 Soluciones prácticas para mejorar tu historial crediticio.
+3️⃣ Opción 3 - Hacer consultas: ❓ Resuelve tus dudas rápidamente.
 
-Opcion 0 - Salir
+❌ Opción 0 - Salir: 👋 Despedirte y cerrar el menú.
+
+✨ ¡Responde con el número de la opción que prefieras y seguimos! ✨
